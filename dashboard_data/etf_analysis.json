@@ -1,0 +1,108 @@
+{
+  "summary": {
+    "total_etf_observations": 3631,
+    "unique_etfs": 732,
+    "total_notional": 10010243939.11,
+    "pct_of_total_notional": 15.9
+  },
+  "by_category": {
+    "categories": [
+      "Trading--Leveraged Equity",
+      "Commodities Focused",
+      "Digital Assets",
+      "Large Growth",
+      "Trading--Leveraged Commodities",
+      "Trading--Inverse Equity",
+      "Large Blend",
+      "Ultrashort Bond",
+      "Trading--Inverse Commodities",
+      "Technology",
+      "Derivative Income",
+      "Small Blend",
+      "Equity Precious Metals",
+      "Trading--Miscellaneous",
+      "Long Government"
+    ],
+    "notional": [
+      2864360520.98,
+      1915782093.95,
+      943355686.33,
+      925229502.63,
+      724132541.05,
+      643034357.98,
+      567961174.17,
+      229408400.52,
+      196704862.95,
+      136235732.18,
+      105165277.96,
+      104917734.24,
+      100173003.07,
+      83498709.55,
+      78601809.69
+    ],
+    "symbol_count": [
+      194,
+      22,
+      43,
+      15,
+      8,
+      61,
+      19,
+      15,
+      6,
+      28,
+      45,
+      2,
+      11,
+      24,
+      8
+    ],
+    "success_rate_pct": [
+      78.2,
+      83.5,
+      70.3,
+      62.5,
+      83.3,
+      78.0,
+      72.2,
+      46.2,
+      84.1,
+      75.5,
+      56.0,
+      80.0,
+      73.7,
+      66.4,
+      88.6
+    ]
+  },
+  "by_leverage": {
+    "leverage": [
+      "1x",
+      "2x",
+      "3x",
+      "-1x",
+      "-3x"
+    ],
+    "notional": [
+      5490955075.94,
+      2819553821.59,
+      1078150631.64,
+      483705324.8,
+      6728064.53
+    ],
+    "symbol_count": [
+      332,
+      198,
+      26,
+      28,
+      3
+    ],
+    "success_rate_pct": [
+      67.8,
+      79.7,
+      72.2,
+      76.5,
+      72.2
+    ]
+  }
+}

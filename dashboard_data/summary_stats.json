@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-01-18T19:46:51.558849",
+  "date_range": {
+    "start": "2025-11-04",
+    "end": "2026-01-14",
+    "trading_days": 27
+  },
+  "totals": {
+    "notional": 62832905849.14,
+    "notional_formatted": "$62.83B",
+    "volume": 2445366451,
+    "volume_formatted": "2445.4M shares",
+    "observations": 22133,
+    "unique_symbols": 2300
+  },
+  "daily_averages": {
+    "notional": 2327144661.08,
+    "notional_formatted": "$2327.1M"
+  },
+  "asset_breakdown": {
+    "stocks": 5658,
+    "etfs": 3631
+  },
+  "alpha_metrics": {
+    "captured_alpha_mean_bps": -55.92,
+    "captured_alpha_median_bps": -16.75,
+    "directional_success_rate_pct": 77.2
+  },
+  "liquidity": {
+    "avg_spread_cents": 145.19
+  }
+}

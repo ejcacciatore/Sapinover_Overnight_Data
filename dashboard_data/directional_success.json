@@ -1,0 +1,48 @@
+{
+  "overall": {
+    "success_rate_pct": 77.2,
+    "total_trades": 22133,
+    "successful_trades": 17083
+  },
+  "by_gap_direction": {
+    "directions": [
+      "DOWN",
+      "UP"
+    ],
+    "success_rate_pct": [
+      75.2,
+      79.1
+    ],
+    "count": [
+      10723,
+      11410
+    ],
+    "notional": [
+      31598575510.44,
+      31234330338.7
+    ]
+  },
+  "by_size": {
+    "buckets": [
+      "$50K-100K",
+      "$100K-500K",
+      "$500K-1M",
+      "$1M-5M",
+      ">$5M"
+    ],
+    "success_rate_pct": [
+      76.6,
+      76.8,
+      77.5,
+      77.3,
+      79.9
+    ],
+    "count": [
+      5280,
+      8715,
+      2526,
+      3651,
+      1961
+    ]
+  }
+}

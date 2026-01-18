@@ -1,0 +1,79 @@
+{
+  "uncaptured": {
+    "mean": 73.36,
+    "median": 19.7,
+    "std": 480.61
+  },
+  "captured": {
+    "mean": -55.92,
+    "median": -16.75,
+    "std": 292.67
+  },
+  "total_overnight": {
+    "mean": 16.52,
+    "median": 1.99,
+    "std": 354.99
+  },
+  "by_sector": {
+    "sectors": [
+      "Basic Materials",
+      "Industrials",
+      "Technology",
+      "Healthcare",
+      "Communication Services",
+      "Energy",
+      "Consumer Defensive",
+      "Consumer Cyclical",
+      "Financial Services",
+      "Utilities",
+      "ETF",
+      "Real Estate",
+      "Unknown"
+    ],
+    "captured_mean_bps": [
+      20.03,
+      -30.88,
+      -19.31,
+      -68.68,
+      -22.93,
+      -43.32,
+      5.64,
+      -26.6,
+      -62.03,
+      4.1,
+      -63.39,
+      -92.65,
+      -447.32
+    ],
+    "captured_median_bps": [
+      18.31,
+      2.77,
+      0.0,
+      -2.21,
+      -4.05,
+      -8.62,
+      -8.95,
+      -11.39,
+      -14.37,
+      -17.93,
+      -19.23,
+      -19.75,
+      -190.26
+    ],
+    "success_rate_pct": [
+      74.6,
+      73.8,
+      73.8,
+      70.0,
+      69.3,
+      67.3,
+      73.0,
+      75.0,
+      72.9,
+      79.2,
+      56.0,
+      70.5,
+      40.0
+    ]
+  }
+}
